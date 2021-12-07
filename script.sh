@@ -1,0 +1,1 @@
+mysqldump  -u root --protocol=tcp -pexamly --all-databases > name.sql
